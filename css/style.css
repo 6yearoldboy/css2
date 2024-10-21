@@ -1,0 +1,19 @@
+div p{color: red;}
+div h2{color: aqua;}
+#block p{color: blueviolet;}
+#block h2{color: rgb(0, 255, 55);} 
+.bbb{color: rgb(238, 255, 0);}
+#block .bbb{color: rgb(255, 0, 225);}
+p.bbb{color: rgb(145, 49, 49);}
+h2.bbb{color: aqua;}
+#block p.bbb{color: sandybrown;}
+.bbb, .xxx{color: rgba(8, 110, 102, 0.588);}
+p.bbb, h2.xxx{color: rgba(148, 21, 233, 0.313);}
+#block p.bbb, #block p.xxx{color: palevioletred;}
+.fff{color: pink;}
+.fff p{color: hotpink;}
+p.fff{color: seagreen;}
+.fff .bbb{color: chocolate;}
+.fff h2.bbb{color: indianred;}
+/* -------------------------- */
+body{background-color: black; color: white;}
